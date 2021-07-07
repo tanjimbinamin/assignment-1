@@ -10,7 +10,7 @@
 
 .middle-banner{
     display: flex;
-    background-image: url(/images/Frame.jpg);
+    background-image: url(images/Frame.jpg);
     background-repeat: no-repeat;
     width: auto;
     height: auto;
